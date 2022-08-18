@@ -1,9 +1,9 @@
 # Summary
 The main motive of the research is to develop a regression model based on the kc_house.csv. Here we did linear regression, histogram, and plotting some diagrams with the help of the dataset.
 
-# What is your role in this project?
+# What is the aim of this project?
 
-Linear regression is mainly used for analyzing and predicting the value of the variable which is based on the overall value of another variable. All of the variables that have been predicted are called dependent variables.
+Linear regression is mainly used for analyzing and predicting the value of the variable which is based on the overall value of another variable. All of the variables that have been predicted are called dependent variables. I want to build a model where i can predict house price based on different other factors like - number of bedrooms, bathroom and others different variable in the dataset. This Model will help my client ( ideally realestate agent) to predict a house price based on other variables and sale in the market!
 
  # What should this project accomplish for the business?
 
