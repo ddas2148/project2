@@ -1,25 +1,3 @@
-Summary.md
-Who has access
-Not shared
-System properties
-Type
-Text
-Size
-3 KB
-Storage used
-3 KB
-Location
-My Drive
-Owner
-me
-Modified
-3:00 PM by me
-Opened
-3:05 PM by me
-Created
-3:00 PM with dillinger
-Add a description
-Viewers can download
 # Summary
 The main motive of the research is to develop a regression model based on the kc_house.csv. Here we did linear regression, histogram, and plotting some diagrams with the help of the dataset.
 
