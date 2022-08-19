@@ -7,7 +7,7 @@ Linear regression is mainly used for analyzing and predicting the value of the v
 
  # What should this project accomplish for the business?
 
-From this product and linear regression, it is very easy to understand the house price with different needs of the real estate investors/ buyers. In this project the customer is a real estate investor and the user is an estimator.
+From this model and linear regression, it is very easy to understand that how house price depends on various types of attributes! My client realestate business can determine/predict a price guide for their vendor! Also can help property estimator for their property value estimation purpose!
 
 # Content:
 
@@ -25,8 +25,11 @@ In conclusion, adding more variables shows our model improves! However, it is ve
 
 Thank You
 Regards
+
 Dipak Das
+
 Email= Dipak.janina@gmail
+
 GitHub= https://github.com/ddas2148
 
 # Want to Contribute to this project?
