@@ -24,6 +24,7 @@ From the given dataset we can see that there are multiple variables that can inf
 In conclusion, adding more variables shows our model improves! However, it is very hard to determine a very perfect price as price depends on other variables like economy, countries current GDP and cash rate etc! Currently happening in Australia for example! House prices are going down due to the bank interest rate increasing!
 
 Thank You
+
 Regards
 
 Dipak Das
