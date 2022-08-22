@@ -15,7 +15,7 @@ From this model and linear regression, it is very easy to understand that how ho
 
 **Project2.ipynb** is the working in jupyter notebook
 
-**Non-technical presentation** file is for a short presentation about the model
+**Non-technical presentation** file is for a short presentation about the model (can be found= http://localhost:8890/view/nontechnical%20presentation.slides.html )
 
 ## Brief findings: 
 From the given dataset we can see that there are multiple variables that can influence the price! There are 18 different variables that can influence the price with many other different variables which we don’t have the data or questions about yet! From the correlation heatmap we can see which variables have more influences on the price! Below I have given a list of the variables that have more influences on the price- -bedrooms, bathrooms, floors, sqft_living, sqft_lot', grade, condition, floors…. We want to build a few models which can tell us which are the variable influences most to predict price! The end user will be buyers/ property value estimators but our real estate company (our client here can guide them! Some of the data from buyers might have helped to improve this model! a few of the questions could be= what is the family size? What is the purpose of buying the property investment or living in? income of the household? Those answers could help to determine more affordability and that might help me to get the model improved a lot!
